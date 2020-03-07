@@ -15,7 +15,7 @@
     "babel-register": "6.26.0",
     "babelify": "7.2.0",
     "babelify-external-helpers": "1.1.0",
-    "browserify": "13.0.0",
+    "browserify": "15.0.0",
     "bundle-collapser": "1.2.1",
     "cached-path-relative": "1.0.2",
     "dom4": "1.7.0",
@@ -52,7 +52,7 @@
     "stylus": "0.54.5",
     "vinyl-buffer": "1.0.1",
     "vinyl-source-stream": "2.0.0",
-    "watchify": "3.7.0"
+    "watchify": "3.10.0"
   },
   "browser": {
     "ractive": "ractive/ractive-legacy.runtime"
